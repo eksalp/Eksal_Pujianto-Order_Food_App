@@ -1,0 +1,14 @@
+SET "Food" with "Burger"
+SET "foodPrice" with "10000"
+SET userFood
+SET userFoodQty
+
+READ userFood
+SET userFood = Food
+    IF userFood not equals Food THEN
+        BREAK
+    ELSE 
+        CONTINUE to userFoodQty
+        READ userFoodQty
+SET "total bayar" with "(userFoodQty * foodPrice)"
+PRINT "total bayar"
