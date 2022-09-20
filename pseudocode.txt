@@ -1,0 +1,4 @@
+SET "Food" with "Burger"
+SET "foodPrice" with "10000"
+SET userFood
+SET userFoodQty
