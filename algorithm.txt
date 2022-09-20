@@ -1,0 +1,10 @@
+Berikut merupakan algortima dari aplikasi pesan makanan
+
+1. Siapkan variabel food dengan isi 'Burger'
+2. Siapkan variabel foodPrice dengan isi 10000
+3. Siapkan variabel userFood
+4. Siapkan variabel userFoodQty
+5. Isi variabel userFood dengan nilai yang diberi oleh user
+6. Jika userFood tidak sama dengan food, maka akhiri program. Jika tidak, lanjut ke step 11.
+7. Isi variabel userFoodQty dengan nilai yang diberi oleh user
+8. Tampilkan hasil perhitungan (userFoodQty * foodPrice) + (userDrinkQty * drinkPrice)
